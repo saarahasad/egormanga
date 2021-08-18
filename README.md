@@ -10,4 +10,13 @@
 			<p>https://github.com/egormanga/pycraft</p>
 		</a></th>
 	</table>
+	
+	<table>
+		<th><a href="https://github.com/fregante/shorten-repo-url/" target="_blank">
+			<p>https://github.com/fregante/shorten-repo-url/</p>
+		</a></th>
+		<th><a href="https://github.com/nodejs/node/" target="_blank">
+			<p>https://github.com/nodejs/node/</p>
+		</a></th>
+	</table>
 </div>
