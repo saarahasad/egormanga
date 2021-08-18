@@ -4,6 +4,10 @@
 		<p>https://github.com/fregante/shorten-repo-url/</p>
 	</a>
 	</br>
+	<a href="https://github.com/fregante/shorten-repo-url/" target="_blank">
+		https://github.com/fregante/shorten-repo-url/
+	</a>
+	</br>
 	<a href="https://github.com/nodejs/node/" target="_blank">
 		<p>https://github.com/nodejs/node/</p>
 	</a>
