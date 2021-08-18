@@ -3,6 +3,7 @@
 	<a href="https://github.com/fregante/shorten-repo-url/" target="_blank">
 		<p>https://github.com/fregante/shorten-repo-url/</p>
 	</a>
+	</br>
 	<a href="https://github.com/nodejs/node/" target="_blank">
 		<p>https://github.com/nodejs/node/</p>
 	</a>
@@ -15,9 +16,5 @@
 			<img src="PyCraft.png" alt="PyCraft" width=64 />
 			<p>https://github.com/egormanga/pycraft</p>
 		</a></th>
-		
-	
 	</table>
-	
-	
 </div>
