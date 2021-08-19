@@ -25,7 +25,7 @@
 			<p>https://github.com/egormanga/pycraft</p>
 		</a></th>
 	</table>
-	<a id="arrPrint"></a>
+	<a id="arrPrint"></a> </br>
 	<script>
 		let arr = [
 		'https://github.com/fregante/shorten-repo-url/'	
@@ -34,22 +34,14 @@
 		'https://github.com/nodejs/node/',
 		'https://github.com/nodejs/shorten-repo-url/',
 		'https://github.com/nodejs/node/tree/v0.12',
-	
 		'https://github.com/nodejs/node/tree/d71718db6aa4feb8dc10edbad1134472468e971a',
 		'https://github.com/fregante/shorten-repo-url/tree/master/doc',
-	
 		'https://github.com/fregante/shorten-repo-url/tree/v0.12/doc',
-	
 		'https://github.com/fregante/shorten-repo-url/tree/d71718db6aa4feb8dc10edbad1134472468e971a/doc',
-	
 		'https://github.com/nodejs/node/tree/master/doc',
-	
 		'https://github.com/nodejs/node/tree/v0.12/doc',
-
 		'https://github.com/nodejs/node/tree/d71718db6aa4feb8dc10edbad1134472468e971a/doc',
-	
 		'https://github.com/fregante/shorten-repo-url/blob/master/.gitignore',
-	
 		'https://github.com/fregante/shorten-repo-url/blob/v0.12/.gitignore',
 	
 		'https://github.com/fregante/shorten-repo-url/blob/cc8fc46/.gitignore',
