@@ -1,20 +1,5 @@
 <div align="center">
 	<h3>My projects you may want to see:</h3>
-	<a href="https://github.com/fregante/shorten-repo-url/" target="_blank">
-		<p>https://github.com/fregante/shorten-repo-url/</p>
-	</a>
-	</br>
-	<a href="https://github.com/fregante/shorten-repo-url/" target="_blank">
-		https://github.com/fregante/shorten-repo-url/
-	</a>
-	</br>
-	<a href="https://github.com/nodejs/node/" target="_blank">
-		https://github.com/nodejs/node/
-	</a>
-	</br>
-	<a href="https://github.com/nodejs/node/" target="_blank">
-		<p>https://github.com/nodejs/node/</p>
-	</a>
 	<table>
 		<th><a href="https://github.com/egormanga/Slang" target="_blank">
 			<img src="Slang.png" alt="Slang" width=256 />
